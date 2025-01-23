@@ -15,8 +15,8 @@
 • Vetor de ataque: ``` Web Site Attack Vectors ```
 ![Passo dois](https://github.com/user-attachments/assets/ab6e6b04-ab6e-4671-8db4-8dfbc74cac46)
 
-
 • Método de ataque: ```Credential Harvester Attack Method ```
+
 ![Passo tres](https://github.com/user-attachments/assets/d63a95db-551f-4814-ac93-75dc43bdd3b4)
 
 • Método de ataque: ``` Site Cloner ```
